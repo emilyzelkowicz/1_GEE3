@@ -1,0 +1,25 @@
+{
+  "name": "onceagain",
+  "version": "1.0.0",
+  "main": "works.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node works.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyzelkowicz/1_GEE3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyzelkowicz/1_GEE3/issues"
+  },
+  "homepage": "https://github.com/emilyzelkowicz/1_GEE3#readme",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  },
+  "description": ""
+}
