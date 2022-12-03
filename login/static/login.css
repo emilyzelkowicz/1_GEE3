@@ -1,0 +1,7 @@
+#content {
+    border: 3px solid pink;
+    background-image: url(onceagain\login\static\lined.png)
+}
+#hidden {
+    display:none;
+}
